@@ -1,0 +1,6 @@
+streamlit
+py3Dmol
+pandas
+numpy
+scipy
+pyscf
